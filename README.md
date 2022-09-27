@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jyotiram Kamnble
 - 👀 I’m interested in ...java development And web development
-- 🌱 I’m currently learning ...javasript
+- 🌱 I’m currently learning ...javasript along with React JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 

@@ -54,14 +54,6 @@
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jyotiram-kamble&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jyotiram-kamble&theme=dark" alt="GitHub Streak">
-</p>
-
----
-
 ### **🚀 Let's Build Something Amazing!**  
 💡 Passionate about building scalable web and backend applications with modern technologies. Always learning, improving, and looking for new challenges!  
 

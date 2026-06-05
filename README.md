@@ -231,12 +231,12 @@ Cutting-edge **food delivery platform** built on a scalable **Microservices arch
 
 ---
 
-### 🏆 Award-Winning University Project
+### 🏆 University Project
 
 #### 🚨 [Meri Suraksha — Women's Safety Android App](https://github.com/jyotiram7402/Meri-Suraksha-Enhancing-Women-s-Safety-AndroidApp)
-![Winner](https://img.shields.io/badge/🥇_1st_Prize-University_Featured_Project-FFD700?style=for-the-badge&logoColor=black)
+![Winner](https://img.shields.io/badge/🥇_Featured_Project-FFD700?style=for-the-badge&logoColor=black)
 
-An **intelligent surveillance system** using spy cameras to enhance women's safety in public spaces — capable of **real-time threat detection** and **instant alerts to authorities**. 🏅 *Won 1st prize and was the featured project at the university level.*
+An **intelligent surveillance system** using spy cameras to enhance women's safety in public spaces — capable of **real-time threat detection** and **instant alerts to authorities**. 🏅 featured project at the university level.*
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)

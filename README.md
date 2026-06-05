@@ -1,7 +1,11 @@
 <!-- ====================== HEADER / BANNER ====================== -->
-<a href="https://github.com/jyotiram7402">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,50:6E40C9,100:00B4D8&height=200&section=header&text=Jyotiram%20Kamble&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Java%20Full%20Stack%20%7C%20Generative%20AI%20%26%20Agentic%20AI&descAlignY=58&descAlign=50" alt="header"/>
-</a>
+<div align="center">
+
+# 👨‍💻 Jyotiram Kamble
+
+### Software Engineer · Java Full Stack · Generative AI & Agentic AI
+
+</div>
 
 <!-- ====================== TYPING ANIMATION ====================== -->
 <div align="center">
@@ -227,12 +231,12 @@ Cutting-edge **food delivery platform** built on a scalable **Microservices arch
 
 ---
 
-### 🏆  University Project
+### 🏆 Award-Winning University Project
 
 #### 🚨 [Meri Suraksha — Women's Safety Android App](https://github.com/jyotiram7402/Meri-Suraksha-Enhancing-Women-s-Safety-AndroidApp)
-![Winner](https://img.shields.io/badge/🥇University_Featured_Project-FFD700?style=for-the-badge&logoColor=black)
+![Winner](https://img.shields.io/badge/🥇_1st_Prize-University_Featured_Project-FFD700?style=for-the-badge&logoColor=black)
 
-An **intelligent surveillance system** using spy cameras to enhance women's safety in public spaces — capable of **real-time threat detection** and **instant alerts to authorities**. 🏅 featured project at the university level.*
+An **intelligent surveillance system** using spy cameras to enhance women's safety in public spaces — capable of **real-time threat detection** and **instant alerts to authorities**. 🏅 *Won 1st prize and was the featured project at the university level.*
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
@@ -261,21 +265,38 @@ An **intelligent surveillance system** using spy cameras to enhance women's safe
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jyotiram7402&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=1F6FEB&icon_color=6E40C9" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyotiram7402&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1F6FEB&langs_count=8" alt="Top Languages"/>
+
+<img src="https://streak-stats.demolab.com?user=jyotiram7402&theme=tokyonight&hide_border=true&background=0D1117&ring=1F6FEB&fire=6E40C9&currStreakLabel=1F6FEB" alt="GitHub Streak Stats"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jyotiram7402&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=1F6FEB&line=6E40C9&point=00B4D8" alt="Contribution Activity Graph"/>
+
 </div>
 
+<!--
+  ═══════════════════════════════════════════════════════════════════
+  OPTIONAL: Stats card, Top Languages & Trophies
+  ───────────────────────────────────────────────────────────────────
+  These three use the shared github-readme-stats / github-profile-trophy
+  services, which are heavily rate-limited and often show as broken.
+  To use them RELIABLY, deploy your own free copy on Vercel:
+
+    1. Go to https://github.com/anuraghazra/github-readme-stats
+    2. Click "Deploy" -> deploy to your own Vercel account (free, ~5 min)
+    3. Replace "github-readme-stats.vercel.app" below with YOUR Vercel URL
+       (e.g. jyotiram-stats.vercel.app)
+    4. Uncomment this block.
+  Once self-hosted, these never hit the shared rate limit again.
+  ═══════════════════════════════════════════════════════════════════
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=jyotiram7402&theme=tokyonight&hide_border=true&background=0D1117&ring=1F6FEB&fire=6E40C9&currStreakLabel=1F6FEB" alt="GitHub Streak"/>
+  <img height="180em" src="https://YOUR-APP.vercel.app/api?username=jyotiram7402&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=1F6FEB&icon_color=6E40C9" alt="GitHub Stats"/>
+  <img height="180em" src="https://YOUR-APP.vercel.app/api/top-langs/?username=jyotiram7402&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1F6FEB&langs_count=8" alt="Top Languages"/>
 </div>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=jyotiram7402&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies"/>
 </div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jyotiram7402&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=1F6FEB&line=6E40C9&point=00B4D8" alt="Activity Graph"/>
-</div>
+-->
 
 ---
 
@@ -310,4 +331,10 @@ An **intelligent surveillance system** using spy cameras to enhance women's safe
 <br/>
 
 <!-- ====================== FOOTER ====================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,50:6E40C9,100:1F6FEB&height=120&section=footer&text=Let's%20Build%20Something%20Amazing!&fontSize=22&fontColor=ffffff&animation=twinkling&fontAlignY=70" alt="footer"/>
+<div align="center">
+
+### ⭐ Let's Build Something Amazing Together!
+
+![Thanks for visiting](https://img.shields.io/badge/Thanks_for_visiting!-1F6FEB?style=for-the-badge)
+
+</div>
